@@ -1,6 +1,3 @@
-# 💫 About Me:
-<iframe src="https://lottie.host/embed/78665e5c-3adf-43a3-9338-cc0e8e2a6d85/hDGXPcxxQu.json" width="100%" height="400"></iframe>
-
 
 # 💫 About Me:
 💻 Motivated junior developer<br>🛠️ Working on Telegram bots<br>🎯 FULL-STACK<br>
