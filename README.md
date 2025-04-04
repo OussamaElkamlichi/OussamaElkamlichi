@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-💻 Motivated junior developer<br>🛠️ Working on Telegram bots<br>🎯 FULL-STACK<br>
+💻 Motivated junior developer<br>🎯 FULL-STACK<br>🛠️ Working on Telegram bots<br>
 
 
 ## 🌐 Socials:
